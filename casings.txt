@@ -1,0 +1,16 @@
+//MOSTLY JS
+camelCase
+twoHumpCamel
+
+TitleCase
+PascalCase
+
+//WEB PAGES
+kebob-case
+fruit-meat-veggie
+
+//SQEL and PYTHON
+snake_case
+
+//MAGIC NUMBERS FOR API
+README

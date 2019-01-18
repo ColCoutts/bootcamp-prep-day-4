@@ -1,0 +1,21 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+}
+
+label {
+    display: block;
+    padding: 5px;
+    border: 1px solid red;
+    margin: 5px;
+}
+
+button {
+    color: white;
+    background: forestgreen;
+    padding: 5px;
+}
